@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//oumouexpress.com/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//epic-shirley-a24db6.netlify.app/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>http://oumouexpress.com/post-sitemap.xml</loc>
+		<loc>https://epic-shirley-a24db6.netlify.app/post-sitemap.xml</loc>
 		<lastmod>2020-12-11T09:46:06+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://oumouexpress.com/page-sitemap.xml</loc>
+		<loc>https://epic-shirley-a24db6.netlify.app/page-sitemap.xml</loc>
 		<lastmod>2020-12-17T13:20:15+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://oumouexpress.com/project-sitemap.xml</loc>
+		<loc>https://epic-shirley-a24db6.netlify.app/project-sitemap.xml</loc>
 	</sitemap>
 	<sitemap>
-		<loc>http://oumouexpress.com/product-sitemap.xml</loc>
+		<loc>https://epic-shirley-a24db6.netlify.app/product-sitemap.xml</loc>
 		<lastmod>2020-12-17T13:23:12+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://oumouexpress.com/category-sitemap.xml</loc>
+		<loc>https://epic-shirley-a24db6.netlify.app/category-sitemap.xml</loc>
 		<lastmod>2020-12-11T09:46:06+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://oumouexpress.com/product_cat-sitemap.xml</loc>
+		<loc>https://epic-shirley-a24db6.netlify.app/product_cat-sitemap.xml</loc>
 		<lastmod>2020-12-17T13:23:12+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>http://oumouexpress.com/author-sitemap.xml</loc>
+		<loc>https://epic-shirley-a24db6.netlify.app/author-sitemap.xml</loc>
 		<lastmod>2020-12-11T18:08:03+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
